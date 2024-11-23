@@ -1,0 +1,8 @@
+------------------------------------------------------
+Started: 2024-11-23 07:54:04.441450
+Existing_entries: 0
+Fetching from https://rsshub.app/bjp/apod
+Fetch error: 503
+Fetch failed from https://rsshub.app/bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
