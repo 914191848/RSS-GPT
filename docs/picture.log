@@ -1,0 +1,8 @@
+------------------------------------------------------
+Started: 2024-11-23 07:48:14.442696
+Existing_entries: 0
+Fetching from rsshub://bjp/apod
+Fetch error: No connection adapters were found for 'rsshub://bjp/apod'
+Fetch failed from rsshub://bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
