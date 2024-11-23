@@ -6,3 +6,19 @@ Fetch error: 503
 Fetch failed from https://rsshub.app/bjp/apod
 append_entries: 0
 error when rendering xml, skip docs/picture
+------------------------------------------------------
+Started: 2024-11-23 07:58:20.910667
+Existing_entries: 0
+Fetching from https://hub.rss.direct/bjp/apod
+Append: [美杜莎星云](https://www.bjp.org.cn/APOD/4028c13693504fb1019352683633001c.shtml)
+Append: [拉斯坎帕纳斯天文台上空的波状云](https://www.bjp.org.cn/APOD/4028c1369340dc99019342dbf27b000c.shtml)
+Append: [冥王星之夜](https://www.bjp.org.cn/APOD/4028c136932c432901932eaf79900003.shtml)
+Append: [韦布空间望远镜拍摄的棒旋星系NGC 1365](https://www.bjp.org.cn/APOD/4028c1369321f6710193237a973f0003.shtml)
+Append: [多洛米蒂山上的紫金山-阿特拉斯彗星](https://www.bjp.org.cn/APOD/4028c13692fde9f20192ffa5da340002.shtml)
+Append: [复活节岛上的银河](https://www.bjp.org.cn/APOD/4028c13692f8c3940192fa9c03e30002.shtml)
+Append: [NGC 7635：气泡星云](https://www.bjp.org.cn/APOD/4028c13692d9dd680192db12efc20005.shtml)
+Append: [法国上空闪耀的“光河”STEVE](https://www.bjp.org.cn/APOD/4028c13692cf90b40192d1c27ba5001c.shtml)
+Append: [螺旋星云NGC 7293](https://www.bjp.org.cn/APOD/4028c13692b5d0e50192b76e6dcb000d.shtml)
+Append: [M16——恒星诞生的支柱](https://www.bjp.org.cn/APOD/4028c13692b0aa880192b2535b8f0002.shtml)
+append_entries: 10
+Finish: 2024-11-23 07:58:23.907927
