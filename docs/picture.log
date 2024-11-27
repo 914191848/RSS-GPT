@@ -95,3 +95,10 @@ Existing_entries: 11
 Fetching from https://hub.rss.direct/bjp/apod
 append_entries: 0
 Finish: 2024-11-27 01:19:18.517543
+------------------------------------------------------
+Started: 2024-11-27 08:22:21.984563
+Existing_entries: 11
+Fetching from https://hub.rss.direct/bjp/apod
+Append: [流星与彗星](https://www.bjp.org.cn/APOD/4028c1369364e9200193671e6b2a0017.shtml)
+append_entries: 1
+Finish: 2024-11-27 08:22:25.857835
