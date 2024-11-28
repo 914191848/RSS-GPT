@@ -120,3 +120,11 @@ Existing_entries: 12
 Fetching from https://hub.rss.direct/bjp/apod
 append_entries: 0
 Finish: 2024-11-28 08:22:50.650055
+------------------------------------------------------
+Started: 2024-11-28 16:20:18.782793
+Existing_entries: 12
+Fetching from https://hub.rss.direct/bjp/apod
+Fetch error: HTTPSConnectionPool(host='hub.rss.direct', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://hub.rss.direct/bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
