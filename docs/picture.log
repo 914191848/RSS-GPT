@@ -196,3 +196,11 @@ Fetch error: HTTPSConnectionPool(host='hub.rss.direct', port=443): Read timed ou
 Fetch failed from https://hub.rss.direct/bjp/apod
 append_entries: 0
 error when rendering xml, skip docs/picture
+------------------------------------------------------
+Started: 2024-12-02 01:21:13.734651
+Existing_entries: 12
+Fetching from https://hub.rss.direct/bjp/apod
+Fetch error: HTTPSConnectionPool(host='hub.rss.direct', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://hub.rss.direct/bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
