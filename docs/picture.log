@@ -249,3 +249,11 @@ Fetching from https://hub.rss.direct/bjp/apod
 Append: [小小星球上的冬与夏](https://www.bjp.org.cn/APOD/4028c1369388f59e01938ad23c12000b.shtml)
 append_entries: 1
 Finish: 2024-12-04 01:20:28.998366
+------------------------------------------------------
+Started: 2024-12-04 08:23:02.682421
+Existing_entries: 13
+Fetching from https://hub.rss.direct/bjp/apod
+Fetch error: HTTPSConnectionPool(host='hub.rss.direct', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://hub.rss.direct/bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
