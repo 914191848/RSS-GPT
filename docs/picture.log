@@ -242,3 +242,10 @@ Fetch error: HTTPSConnectionPool(host='hub.rss.direct', port=443): Read timed ou
 Fetch failed from https://hub.rss.direct/bjp/apod
 append_entries: 0
 error when rendering xml, skip docs/picture
+------------------------------------------------------
+Started: 2024-12-04 01:20:21.541105
+Existing_entries: 12
+Fetching from https://hub.rss.direct/bjp/apod
+Append: [小小星球上的冬与夏](https://www.bjp.org.cn/APOD/4028c1369388f59e01938ad23c12000b.shtml)
+append_entries: 1
+Finish: 2024-12-04 01:20:28.998366
