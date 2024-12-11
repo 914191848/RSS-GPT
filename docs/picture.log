@@ -14,3 +14,9 @@ Append: [多洛米蒂山上的紫金山-阿特拉斯彗星](https://www.bjp.org.
 Append: [复活节岛上的银河](https://www.bjp.org.cn/APOD/4028c13692f8c3940192fa9c03e30002.shtml)
 append_entries: 10
 Finish: 2024-12-11 16:07:16.480491
+------------------------------------------------------
+Started: 2024-12-11 16:21:58.800175
+Existing_entries: 10
+Fetching from https://hub.rss.direct/bjp/apod
+append_entries: 0
+Finish: 2024-12-11 16:22:00.534778
