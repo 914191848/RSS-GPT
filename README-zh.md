@@ -53,3 +53,4 @@
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 - https://hub.rss.direct/bjp/apod -> https://914191848.github.io/RSS-GPT/picture.xml
+- https://apod.nasa.gov/apod.rss -> https://914191848.github.io/RSS-GPT/picture2.xml

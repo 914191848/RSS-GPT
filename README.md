@@ -55,3 +55,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
 - https://hub.rss.direct/bjp/apod -> https://914191848.github.io/RSS-GPT/picture.xml
+- https://apod.nasa.gov/apod.rss -> https://914191848.github.io/RSS-GPT/picture2.xml
