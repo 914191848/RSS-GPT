@@ -3,7 +3,10 @@
 <channel>
 <title>APOD</title>
 <link>https://apod.nasa.gov/</link>
-
+<follow_challenge>
+    <feedId>89900088719276032</feedId>
+    <userId>74390644698324992</userId>
+</follow_challenge>
 <item>
 <title></title>
 <link>https://apod.nasa.gov/apod/astropix.html</link>
