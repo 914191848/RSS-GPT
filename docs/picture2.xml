@@ -3,87 +3,81 @@
 <channel>
 <title>APOD</title>
 <link>https://apod.nasa.gov/</link>
-<follow_challenge>
-    <feedId>89900088719276032</feedId>
-    <userId>74390644698324992</userId>
-</follow_challenge>
+
+<item>
+<title></title>
+<link>https://apod.nasa.gov/apod/ap241211.html</link>
+<guid>https://apod.nasa.gov/apod/ap241211.html</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://apod.nasa.gov/apod/ap241211.html"><img align="left" alt="" border="0" src="https://apod.nasa.gov/apod/calendar/S_241211.jpg" /></a> </p><br clear="all" />
+]]></content:encoded>
+
+
+</item>
+
 <item>
 <title></title>
 <link>https://apod.nasa.gov/apod/astropix.html</link>
 <guid>https://apod.nasa.gov/apod/astropix.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/astropix.html"><img align="left" alt="" border="0" src="https://apod.nasa.gov/apod/calendar/S_241211.jpg" /></a> </p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
 <item>
 <title></title>
 <link>https://apod.nasa.gov/apod/ap241210.html</link>
 <guid>https://apod.nasa.gov/apod/ap241210.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap241210.html"><img align="left" alt="It was a night of 100,000 meteors. " border="0" src="https://apod.nasa.gov/apod/calendar/S_241210.jpg" /></a> It was a night of 100,000 meteors. </p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
 <item>
 <title></title>
 <link>https://apod.nasa.gov/apod/ap241209.html</link>
 <guid>https://apod.nasa.gov/apod/ap241209.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap241209.html"><img align="left" alt="Have you ever seen the Pleiades star cluster?" border="0" src="https://apod.nasa.gov/apod/calendar/S_241209.jpg" /></a> Have you ever seen the Pleiades star cluster?</p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
 <item>
 <title></title>
 <link>https://apod.nasa.gov/apod/ap241208.html</link>
 <guid>https://apod.nasa.gov/apod/ap241208.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap241208.html"><img align="left" alt="Are Saturn's auroras like Earth's? " border="0" src="https://apod.nasa.gov/apod/calendar/S_241208.jpg" /></a> Are Saturn's auroras like Earth's? </p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
 <item>
 <title>Rocket Engine Fireplace</title>
 <link>https://apod.nasa.gov/apod/ap241207.html</link>
 <guid>https://apod.nasa.gov/apod/ap241207.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap241207.html"><img align="left" alt="You might not think a close up view of rocket engines producing 8.8 million" border="0" src="https://apod.nasa.gov/apod/calendar/S_241207.jpg" /></a> You might not think a close up view of rocket engines producing 8.8 million</p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
 <item>
 <title>Xuyi Station and the Fireball</title>
 <link>https://apod.nasa.gov/apod/ap241206.html</link>
 <guid>https://apod.nasa.gov/apod/ap241206.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap241206.html"><img align="left" alt="Colorful and bright, this streaking fireball meteor was captured in" border="0" src="https://apod.nasa.gov/apod/calendar/S_241206.jpg" /></a> Colorful and bright, this streaking fireball meteor was captured in</p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
 <item>
 <title>Stereo Jupiter near Opposition</title>
 <link>https://apod.nasa.gov/apod/ap241205.html</link>
 <guid>https://apod.nasa.gov/apod/ap241205.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap241205.html"><img align="left" alt="Jupiter looks sharp in these two" border="0" src="https://apod.nasa.gov/apod/calendar/S_241205.jpg" /></a> Jupiter looks sharp in these two</p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
-
 </channel>
 </rss>
