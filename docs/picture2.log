@@ -68,3 +68,10 @@ Existing_entries: 10
 Fetching from https://apod.nasa.gov/apod.rss
 append_entries: 0
 Finish: 2024-12-15 01:25:37.434439
+------------------------------------------------------
+Started: 2024-12-15 08:19:59.793608
+Existing_entries: 10
+Fetching from https://apod.nasa.gov/apod.rss
+Append: [Apollo 17's Moonship](https://apod.nasa.gov/apod/ap241214.html)
+append_entries: 1
+Finish: 2024-12-15 08:19:59.951783
