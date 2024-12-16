@@ -113,3 +113,9 @@ Fetching from https://hub.rss.direct/bjp/apod
 Append: [雪林上空的双子座流星雨](https://www.bjp.org.cn/APOD/4028c13693cbe8490193ce1305ec000e.shtml)
 append_entries: 1
 Finish: 2024-12-16 08:24:06.433483
+------------------------------------------------------
+Started: 2024-12-16 16:21:51.376369
+Existing_entries: 13
+Fetching from https://hub.rss.direct/bjp/apod
+append_entries: 0
+Finish: 2024-12-16 16:21:54.571533
