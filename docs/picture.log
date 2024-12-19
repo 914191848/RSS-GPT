@@ -168,3 +168,9 @@ Fetching from https://hub.rss.direct/bjp/apod
 Append: [M2星团](https://www.bjp.org.cn/APOD/4028c13693db5b5d0193dcc46bc80002.shtml)
 append_entries: 1
 Finish: 2024-12-19 08:21:33.043052
+------------------------------------------------------
+Started: 2024-12-19 16:18:15.177920
+Existing_entries: 14
+Fetching from https://hub.rss.direct/bjp/apod
+append_entries: 0
+Finish: 2024-12-19 16:18:18.218728
