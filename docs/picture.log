@@ -387,3 +387,9 @@ Fetching from https://hub.rss.direct/bjp/apod
 Append: [M27：哑铃星云](https://www.bjp.org.cn/APOD/4028c136941927ad01941a59a28d0005.shtml)
 append_entries: 1
 Finish: 2024-12-31 08:20:20.196691
+------------------------------------------------------
+Started: 2024-12-31 16:18:46.973587
+Existing_entries: 17
+Fetching from https://hub.rss.direct/bjp/apod
+append_entries: 0
+Finish: 2024-12-31 16:18:49.590614
