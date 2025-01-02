@@ -424,3 +424,11 @@ Fetching from https://hub.rss.direct/bjp/apod
 Append: [NGC 4753的扭曲星盘](https://www.bjp.org.cn/APOD/4028c136941927ad01941be1726a003f.shtml)
 append_entries: 1
 Finish: 2025-01-02 08:20:11.172339
+------------------------------------------------------
+Started: 2025-01-02 16:19:33.877626
+Existing_entries: 18
+Fetching from https://hub.rss.direct/bjp/apod
+Fetch error: 403
+Fetch failed from https://hub.rss.direct/bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
