@@ -432,3 +432,11 @@ Fetch error: 403
 Fetch failed from https://hub.rss.direct/bjp/apod
 append_entries: 0
 error when rendering xml, skip docs/picture
+------------------------------------------------------
+Started: 2025-01-03 01:13:58.381177
+Existing_entries: 18
+Fetching from https://hub.rss.direct/bjp/apod
+Fetch error: 403
+Fetch failed from https://hub.rss.direct/bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
