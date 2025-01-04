@@ -4,18 +4,16 @@
 <title>APOD</title>
 <link>https://apod.nasa.gov/</link>
 
+
 <item>
 <title>Eclipse Pair</title>
 <link>https://apod.nasa.gov/apod/ap250103.html</link>
 <guid>https://apod.nasa.gov/apod/ap250103.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap250103.html"><img align="left" alt="Eclipse Pair " border="0" src="https://apod.nasa.gov/apod/calendar/S_250103.jpg" /></a> Eclipse Pair </p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
-
 <item>
 <title>Solar Analemma 2024</title>
 <link>https://apod.nasa.gov/apod/ap250102.html</link>
