@@ -4,6 +4,17 @@
 <title>APOD</title>
 <link>https://apod.nasa.gov/</link>
 
+<item>
+<title>Welcome to Perihelion</title>
+<link>https://apod.nasa.gov/apod/ap250104.html</link>
+<guid>https://apod.nasa.gov/apod/ap250104.html</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://apod.nasa.gov/apod/ap250104.html"><img align="left" alt="Welcome to Perihelion" border="0" src="https://apod.nasa.gov/apod/calendar/S_250104.jpg" /></a> Welcome to Perihelion</p><br clear="all" />
+]]></content:encoded>
+
+
+</item>
 
 <item>
 <title>Eclipse Pair</title>
