@@ -4,18 +4,16 @@
 <title>APOD</title>
 <link>https://apod.nasa.gov/</link>
 
+
 <item>
 <title>Full Moon, Full Mars</title>
 <link>https://apod.nasa.gov/apod/ap250118.html</link>
 <guid>https://apod.nasa.gov/apod/ap250118.html</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://apod.nasa.gov/apod/ap250118.html"><img align="left" alt="Full Moon, Full Mars" border="0" src="https://apod.nasa.gov/apod/calendar/S_250118.jpg" /></a> Full Moon, Full Mars</p><br clear="all" />
 ]]></content:encoded>
-
-
+<pubDate></pubDate>
 </item>
-
 <item>
 <title>Supernova Remnant Cassiopeia A</title>
 <link>https://apod.nasa.gov/apod/ap250117.html</link>
