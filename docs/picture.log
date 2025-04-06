@@ -2672,3 +2672,11 @@ Fetch error: HTTPSConnectionPool(host='hub.rss.direct', port=443): Max retries e
 Fetch failed from https://hub.rss.direct/bjp/apod
 append_entries: 0
 error when rendering xml, skip docs/picture
+------------------------------------------------------
+Started: 2025-04-06 16:18:50.503018
+Existing_entries: 18
+Fetching from https://hub.rss.direct/bjp/apod
+Fetch error: HTTPSConnectionPool(host='hub.rss.direct', port=443): Max retries exceeded with url: /bjp/apod (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f10a8c5d490>: Failed to resolve 'hub.rss.direct' ([Errno -5] No address associated with hostname)"))
+Fetch failed from https://hub.rss.direct/bjp/apod
+append_entries: 0
+error when rendering xml, skip docs/picture
